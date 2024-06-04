@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-combined---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-hypercholesterolemia---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-lipoprotein---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-fredrickson---primary.py
+inputModule6:
+  class: File
+  path: python/genetic-ccu002_02-hypercholesterolaemia---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-apolipoprotein---primary.py
+inputModule8:
+  class: File
+  path: python/familial-ccu002_02-hypercholesterolaemia---primary.py
+inputModule9:
+  class: File
+  path: python/homozygous-ccu002_02-hypercholesterolaemia---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-hyperlipidemia---primary.py
+inputModule11:
+  class: File
+  path: python/possible-ccu002_02-hypercholesterolaemia---primary.py
+inputModule12:
+  class: File
+  path: python/heterozygous-ccu002_02-hypercholesterolaemia---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-hypercholesterolaemia-hypertriglyceridemia---primary.py
+inputModule14:
+  class: File
+  path: python/primary-ccu002_02-hypercholesterolaemia---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
